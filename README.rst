@@ -40,3 +40,9 @@ Clear database - drop all tables
 Dump database
 ::
     ./manage.py dump_database
+
+
+.. image:: https://d2weczhvl823v0.cloudfront.net/YD-Technology/ydcommon/trend.png
+   :alt: Bitdeli badge
+   :target: https://bitdeli.com/free
+
